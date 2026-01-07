@@ -61,4 +61,4 @@ sh train_dreambooth.sh
 python inference.py
 ```
 
-![image-20260107115118590](Y:\course\dreambooth\images\image-20260107115118590.png)
+![image-20260107115118590](images/image-20260107115118590.png)
